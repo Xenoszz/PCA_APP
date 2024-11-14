@@ -17,7 +17,7 @@
  - หากต้องการเพิ่มProcessอื่นให้ทำซ้ำตั้งแต่ขั้นตอนแรก
  - จากนั้นกดปุ่ม **Submit** เพื่อทำการประมวลผล
 
-**กรณที่ต้องการ Generate Process ขึ้นมา**
+**กรณีที่ต้องการ Generate Process ขึ้นมา**
 
  - ให้ใส่จำนวน Process ที่ต้องการให้ตัวโปรแกรมสร้างขึ้นมาที่ช่อง **Number of Random Processes**
  - กดปุ่ม **Generate Random Processes**
