@@ -1,3 +1,8 @@
+# สิ่งที่จำเป็น
+
+- หากไม่มี library **matplotlib**
+- ให้ทำการ **pip install matplotlib** ก่อน
+
 # วิธี Run Program 
 
  - ให้ **Run** ที่ File **App.py** 
